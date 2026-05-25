@@ -1,0 +1,1 @@
+FHSS key recovery lab. Students inspect audio files, scan for the FHSS key, recover the hidden message, and verify the recovery log.

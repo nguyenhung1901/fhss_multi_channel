@@ -1,0 +1,2 @@
+Vui lòng mở tài liệu hướng dẫn của bài lab tại:
+docs/fhss_multi_channel.pdf
